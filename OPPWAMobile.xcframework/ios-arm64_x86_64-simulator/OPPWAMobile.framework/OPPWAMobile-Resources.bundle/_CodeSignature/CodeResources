@@ -38,7 +38,7 @@
 		</data>
 		<key>OPPCardScanningViewController.nib</key>
 		<data>
-		8+rhVxmVZ7lmboOISkrDMupY9rM=
+		4Qf6TonNuZHrr/kP1GPuupUobWA=
 		</data>
 		<key>OPPCardsTableViewCell.nib</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>OPPKlarnaTableViewCell.nib</key>
 		<data>
-		TpasL6owKO+fTmNhtIO5dnt/x+U=
+		CzhyOlddIoq2XtK5ItRWkDbg0dA=
 		</data>
 		<key>OPPListDetailsViewController.nib</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>OPPPKPaymentButtonTableViewCell.nib</key>
 		<data>
-		ZTHqgfKVME6bFIjtOqlRs+X7hzk=
+		rPimoxue3K3ovtBkWMcVKIJpfj4=
 		</data>
 		<key>OPPPaymentFormHeaderView.nib</key>
 		<data>
@@ -124,9 +124,13 @@
 		<data>
 		saDDNnm8QEoMVKv5ZiL/vjIJS8s=
 		</data>
+		<key>OPPPaymentSelectionViewController.nib</key>
+		<data>
+		6mqkgtMO/P+XBmnZlgVjo7gd+H8=
+		</data>
 		<key>OPPRatePayDetailsViewController.nib</key>
 		<data>
-		wwxJqSckixO6PL6kdKmCaiHIvGA=
+		OhVVBm21C2jHrVIYGYRJROkza6I=
 		</data>
 		<key>OPPSTCPayDetailsViewController.nib/objects-11.0+.nib</key>
 		<data>
@@ -150,7 +154,7 @@
 		</data>
 		<key>OPPTokensTableViewCell.nib</key>
 		<data>
-		3Sg+aqwTiIYNuAIDvBZoPy1z28s=
+		+So2Vd+5ZywOGmYz6EyieiO2u5g=
 		</data>
 		<key>OPPTotalAmountView.nib</key>
 		<data>
@@ -895,7 +899,7 @@
 		</data>
 		<key>version.plist</key>
 		<data>
-		V5k+CmwQE5f2xK/f1q33DidpRi8=
+		qxswp49hr6pdQ7iF9Xvq7yrsuec=
 		</data>
 		<key>visa.png</key>
 		<data>
@@ -1049,11 +1053,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8+rhVxmVZ7lmboOISkrDMupY9rM=
+			4Qf6TonNuZHrr/kP1GPuupUobWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			cG8/Kf6IE7pg0jGriZ6Tuh/hsmNHJaNqMxJ3Ln1o9qE=
+			CEF677jz1g548Y5iJgrDR1VhnicXZKR669EglWE+Tk0=
 			</data>
 		</dict>
 		<key>OPPCardsTableViewCell.nib</key>
@@ -1203,11 +1207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TpasL6owKO+fTmNhtIO5dnt/x+U=
+			CzhyOlddIoq2XtK5ItRWkDbg0dA=
 			</data>
 			<key>hash2</key>
 			<data>
-			MoFvGfrIKo6EDF8FtTxoZUvtS86YJmRjqxcOPf1QSEA=
+			B4IgRFy6JOiJswAotKYgHDc3Op6NeXGv/h0s9CCru2Y=
 			</data>
 		</dict>
 		<key>OPPListDetailsViewController.nib</key>
@@ -1236,11 +1240,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZTHqgfKVME6bFIjtOqlRs+X7hzk=
+			rPimoxue3K3ovtBkWMcVKIJpfj4=
 			</data>
 			<key>hash2</key>
 			<data>
-			YqtWegINH/ILXq3JpIW++ECI5DD5dDFwbsJVO85l5eg=
+			Cm5T9k5xXGWpQWJ/9A0gHnHEnlJRPU4HjONUdSyHG0g=
 			</data>
 		</dict>
 		<key>OPPPaymentFormHeaderView.nib</key>
@@ -1287,15 +1291,26 @@
 			Nn8tsn3Op3Zxou6A3ETHJYX+7B4bgPUHIhsQ5G9teVU=
 			</data>
 		</dict>
+		<key>OPPPaymentSelectionViewController.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6mqkgtMO/P+XBmnZlgVjo7gd+H8=
+			</data>
+			<key>hash2</key>
+			<data>
+			WIsj41M6t67/NNJEs0ELbawNpphfEPPSmZJ+H13K5mw=
+			</data>
+		</dict>
 		<key>OPPRatePayDetailsViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wwxJqSckixO6PL6kdKmCaiHIvGA=
+			OhVVBm21C2jHrVIYGYRJROkza6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			4cthjqQh1vqmmaDSQILYp20dZeKV9Jij9cjKUd5uwVQ=
+			3GuQeMEywPc1D7DmpU6FklnzXdvfF59zcqM1/rXMz+0=
 			</data>
 		</dict>
 		<key>OPPSTCPayDetailsViewController.nib/objects-11.0+.nib</key>
@@ -1357,11 +1372,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3Sg+aqwTiIYNuAIDvBZoPy1z28s=
+			+So2Vd+5ZywOGmYz6EyieiO2u5g=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vo+P9QG/1uvUyzLUmyJcsR06McmFd2BWkRB0wthBE3U=
+			dpC4FpxFTmCW5/AyanMcX9+Nxdsjkcs2rrliFQDVtqA=
 			</data>
 		</dict>
 		<key>OPPTotalAmountView.nib</key>
@@ -3018,11 +3033,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V5k+CmwQE5f2xK/f1q33DidpRi8=
+			qxswp49hr6pdQ7iF9Xvq7yrsuec=
 			</data>
 			<key>hash2</key>
 			<data>
-			Gjdzr+A76lCnIYs2Hi22dbcjJD1D48Dd7tD1G3Vv22o=
+			D8yTeK8H0XiB18266Lz61hrP5WvLtGsaGH5SIEsCzZo=
 			</data>
 		</dict>
 		<key>visa.png</key>
